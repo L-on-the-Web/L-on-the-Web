@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm L Jackson
 
-<!--
-**L-on-the-Web/L-on-the-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Aspiring Full Stack Developer
+- 💻 Passionate about Web Development
+- 🧠 Currently learning more Tech Stacks
 
-Here are some ideas to get you started:
+---
+## 🛠 Tech Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- React
+
+---
+## 📫 Connect With Me
+
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge)](https://www.linkedin.com/in/labriana-jackson-084861276/)
+[![Static Badge](https://img.shields.io/badge/CodePen-000000?style=for-the-badge)](https://codepen.io/L-Jackson-the-encoder)
+
+---
+## 📊 GitHub Analytics
+[![GitHub Streak](https://streak-stats.demolab.com?user=L-on-the-Web&theme=sunset-gradient&hide_border=true&border_radius=11.5&mode=weekly)](https://git.io/streak-stats)
